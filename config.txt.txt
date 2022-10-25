@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2022-05-12",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "只要看见你，心中就充满欢乐；只要听到你的声音，就象饮甘甜的清泉；只要想起你，身上就有无穷的力量。爱你哟我的小铃铛",
+"note_ch": "只要看见你,心中就充满欢乐,只要听到你的声音，就象饮甘甜的清泉,只要想起你,身上就有无穷的力量.爱你哟我的小铃铛",
 # 金句英文
 "note_en": "When you think you're not happy with your life, always remember that someone is happy simply because you exist"
 }
