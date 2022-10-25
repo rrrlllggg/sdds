@@ -1,0 +1,27 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wxecef83a2e6cf0e5e",
+# 公众号appSecret
+"app_secret": "wxecef83a2e6cf0e5e",
+# 模板消息id
+"template_id": c73fe3c0db74e23e0e41058376e2f6d1",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["oOfUm6KKEvQ16gTOkYN1ByEMh0og,oOfUm6Bcyti3hjZR9UGYiU7Y1V3I"],
+ 
+# 信息配置
+# 和风天气apikey
+"weather_key": "a43ede5afb544345a731846ba3b94f0e",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
+"region": "云阳县",
+# 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
+"birthday1": {"name": "凌大傻瓜", "birthday": "2001-12-16"},
+# 生日2
+"birthday2": {"name": "任大宝贝", "birthday": "r1998-07-11"},
+# 在一起的日子，格式同上，暂不不支持农历
+"love_date": "2022-05-12",
+# 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
+"note_ch": "只要看见你，心中就充满欢乐；只要听到你的声音，就象饮甘甜的清泉；只要想起你，身上就有无穷的力量。爱你哟我的小铃铛",
+# 金句英文
+"note_en": "When you think you're not happy with your life, always remember that someone is happy simply because you exist"
+}
